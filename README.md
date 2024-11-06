@@ -2,6 +2,10 @@
 
 **To date the largest benchmark for facade semantic segmentation of point clouds** 
 
+<p align="center">
+    <img src="https://github.com/OloOcki/zaha/blob/main/img/overview_figure_wacv_legend.png" width="95%" title="overview"/>
+</p>
+
 ## :star2: Highlights
 - **601 mln** annotated points
 - Introducing LoFG: Level of Facade Generalization enabling hierarchical understanding of facades
