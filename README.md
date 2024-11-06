@@ -2,6 +2,12 @@
 
 **To date the largest benchmark for facade semantic segmentation of point clouds** 
 
+[[Download]](https://tumde-my.sharepoint.com/:f:/g/personal/olaf_wysocki_tum_de/EjEtcRdYt0NOvilNerUesF0Bb-3uADnmzcI3LqTYS729Vg?e=mWCGSd)
+
+Password: 
+```bash copy
+zahahadid
+```
 <p align="center">
     <img src="https://github.com/OloOcki/zaha/blob/main/img/overview_figure_wacv_legend.png" width="75%" title="overview"/>
 </p>
