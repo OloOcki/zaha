@@ -16,6 +16,10 @@ zahahadid
     <img src="https://github.com/OloOcki/zaha/blob/main/img/classes_testset_colorcoded.png" width="75%" title="classes"/>
 </p>
 
+<p align="center">
+    <img src="https://github.com/OloOcki/zaha/blob/main/img/zahaAnimated.gif" width="75%" title="classes"/>
+</p>
+
 ## :star2: Highlights
 - **601 mln** annotated points
 - Introducing LoFG: Level of Facade Generalization enabling hierarchical understanding of facades
