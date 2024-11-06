@@ -2,8 +2,6 @@
 
 **To date the largest benchmark for facade semantic segmentation of point clouds** 
 
-WACV'25: ZAHA: Introducing the Level of Facade Generalization and the Large-Scale Point Cloud Facade Semantic Segmentation Benchmark Dataset
-
 ## :star2: Highlights
 - **601 mln** annotated points
 - Introducing LoFG: Level of Facade Generalization enabling hierarchical understanding of facades
