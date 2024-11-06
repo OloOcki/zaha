@@ -3,11 +3,11 @@
 **To date the largest benchmark for facade semantic segmentation of point clouds** 
 
 <p align="center">
-    <img src="https://github.com/OloOcki/zaha/blob/main/img/overview_figure_wacv_legend.png" width="95%" title="overview"/>
+    <img src="https://github.com/OloOcki/zaha/blob/main/img/overview_figure_wacv_legend.png" width="75%" title="overview"/>
 </p>
 
 <p align="center">
-    <img src="https://github.com/OloOcki/zaha/blob/main/img/classes_testset_colorcoded.png" width="95%" title="classes"/>
+    <img src="https://github.com/OloOcki/zaha/blob/main/img/classes_testset_colorcoded.png" width="75%" title="classes"/>
 </p>
 
 ## :star2: Highlights
