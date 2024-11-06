@@ -24,7 +24,7 @@ zahahadid
 - File names point to the official CityGML LoD2 building models of Bavaria (e.g., DEBY_LOD2_4959462 -> gml_id=DEBY_LOD2_4959462) [[visualisation](https://www.virtualcitymap.de/?lang=de&layerToActivate=%5B%22Bayern%20-%20LOD2%20(pbr)%22%2C%22Sachsen%20-%20LOD2%20(pbr%20recalculation)%22%2C%22Sachsen-Anhalt%20-%20LOD2%20(pbr%20recalculation)%22%2C%22Th%C3%BCringen%20-%20LOD2%20(pbr%20recalculation)%22%2C%22Niedersachsen%20(pbr%20recalculation)%22%2C%22NRW%20-%20LOD2%20(pbr%20recalculation)%22%2C%22Hessen%20-%20LOD2%20(pbr%20recalculation)%22%2C%22Hamburg%20-%20LOD2%20(pbr%20recalculation)%22%2C%22Brandenburg%20-%20LOD2%20(pbr%20recalculation)%22%2C%22Berlin%20untexturiert%20openData%20(pbr%20recalculation)%22%2C%22GermanyBaseTerrain%22%5D&layerToDeactivate=%5B%22Mesh%20Classification%20Layer%22%2C%22mesh_surface%22%5D&startingmap=Cesium%20Map&cameraPosition=11.56952%2C48.14564%2C875.76828&groundPosition=11.56721%2C48.14877%2C523.42063&distance=524.27&pitch=-42.23&heading=333.69&roll=359.89#/)]   
 - The settings file for **adding your own data**
 
-### Facade Semantic Segmentation Results at LoFG2
+### :mag_right: Facade Semantic Segmentation Results at LoFG2
 
 LoFG stands for Level of Facade Generalization. See more in the ZAHA paper introducing the concept [here, pending](pending).
 
@@ -43,7 +43,7 @@ LoFG stands for Level of Facade Generalization. See more in the ZAHA paper intro
 | other el.       | 71.2          | 71.6       | 78.9              | **88.8** |
 
 
-### Facade Semantic Segmentation Results at LoFG3
+### :mag_right: Facade Semantic Segmentation Results at LoFG3
 
 LoFG stands for Level of Facade Generalization. See more in the ZAHA paper introducing the concept [here, pending](pending).
 
