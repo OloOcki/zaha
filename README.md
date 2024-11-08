@@ -13,7 +13,7 @@ zahahadid
 </p>
 
 <p align="center">
-    <img src="https://github.com/OloOcki/zaha/blob/main/img/classes_testset_colorcoded.png" width="75%" title="classes"/>
+    <img src="https://github.com/OloOcki/zaha/blob/main/img/classes_testset_colorcoded_trans.png" width="75%" title="classes"/>
 </p>
 
 <p align="center">
