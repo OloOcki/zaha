@@ -9,7 +9,7 @@ Password:
 zahahadid
 ```
 <p align="center">
-    <img src="https://github.com/OloOcki/zaha/blob/main/img/overview_figure_wacv_legend.png" width="75%" title="overview"/>
+    <img src="https://github.com/OloOcki/zaha/blob/main/img/overview_figure_wacv_legend_transparent.png" width="75%" title="overview"/>
 </p>
 
 <p align="center">
