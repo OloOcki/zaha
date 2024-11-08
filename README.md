@@ -80,7 +80,7 @@ LoFG stands for Level of Facade Generalization. See more in the ZAHA paper intro
 
 Please find the official publication introducing "ZAHA" at the WACV '25 here: 
 
-The paper [[WACV25](pending)] [[arxiv preprint](pending)]
+The paper [[WACV25 - pending](pending)] [[arxiv preprint](https://arxiv.org/abs/2411.04865)]
 
 and consider citing it:
 ```plain
@@ -89,6 +89,17 @@ and consider citing it:
 	title = {ZAHA: Introducing the Level of Facade Generalization and the Large-Scale Point Cloud Facade Semantic Segmentation Benchmark Dataset},
 	booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
 	year = {2025},
+```
+```
+@misc{wysocki2024zahaintroducinglevelfacade,
+      title={ZAHA: Introducing the Level of Facade Generalization and the Large-Scale Point Cloud Facade Semantic Segmentation Benchmark Dataset}, 
+      author={Olaf Wysocki and Yue Tan and Thomas Froech and Yan Xia and Magdalena Wysocki and Ludwig Hoegner and Daniel Cremers and Christoph Holst},
+      year={2024},
+      eprint={2411.04865},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2411.04865}, 
+}
 ```
 
 ## :handshake: Acknowledgments 
