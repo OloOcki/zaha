@@ -21,7 +21,7 @@ zahahadid
 </p>
 
 ## :star2: Highlights
-- **601 mln** annotated points
+- **601 mln** annotated points in ZAHA (/ˌzɑːhɑː/)
 - Introducing LoFG: Level of Facade Generalization enabling hierarchical understanding of facades
 - Various architectural styles
 - In **local** and **global** (i.e., UTM) coordinate reference system (if struggling with the [height transformation](https://www.ldbv.bayern.de/vermessung/utm_umstellung/koordinatentrafo.html) - apply 45.66 m vertical offset)
