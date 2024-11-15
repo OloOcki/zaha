@@ -2,7 +2,7 @@
 
 **To date the largest benchmark for facade semantic segmentation of point clouds** 
 
-[[Download]](https://tumde-my.sharepoint.com/:f:/g/personal/olaf_wysocki_tum_de/EjEtcRdYt0NOvilNerUesF0Bb-3uADnmzcI3LqTYS729Vg?e=mWCGSd) [[Benchmark]](https://tum2t.win/benchmarks/pc-fac) [[WACV25 Paper]](https://arxiv.org/abs/2411.04865) [[More]](https://tum2t.win/datasets/pc-mls)
+[[Download]](https://tumde-my.sharepoint.com/:f:/g/personal/olaf_wysocki_tum_de/EjEtcRdYt0NOvilNerUesF0Bb-3uADnmzcI3LqTYS729Vg?e=mWCGSd) [[Benchmark]](https://tum2t.win/benchmarks/pc-fac) [[WACV25 Paper(pre-print)]](https://arxiv.org/abs/2411.04865) [[More]](https://tum2t.win/datasets/pc-mls)
 
 Password: 
 ```bash copy
@@ -30,7 +30,7 @@ zahahadid
 
 ### :mag_right: Facade Semantic Segmentation Results at LoFG3
 
-LoFG stands for Level of Facade Generalization. See more in the ZAHA paper introducing the concept [here, pending](pending).
+LoFG stands for Level of Facade Generalization. See more in the ZAHA paper introducing the concept [here](https://arxiv.org/abs/2411.04865).
 
 |  | PointNet      | PointNet++ | Point Transformer | DGCNN         |
 |-----------------|---------------|------------|-------------------|---------------|
@@ -59,7 +59,7 @@ LoFG stands for Level of Facade Generalization. See more in the ZAHA paper intro
 
 ### :mag_right: Facade Semantic Segmentation Results at LoFG2
 
-LoFG stands for Level of Facade Generalization. See more in the ZAHA paper introducing the concept [here, pending](pending).
+LoFG stands for Level of Facade Generalization. See more in the ZAHA paper introducing the concept [here](https://arxiv.org/abs/2411.04865).
 
 |  | PointNet      | PointNet++ | Point Transformer | DGCNN         |
 |-----------------|---------------|------------|-------------------|---------------|
