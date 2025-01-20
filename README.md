@@ -110,3 +110,5 @@ We are indebted to [Jiarui Zhang](https://de.linkedin.com/in/jiarui-zhang-20bb36
 Thank you Hitachi group for releasing the [Semantic Segmentation Editor](https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor) as a user-friendly open-source tool that we could easily adapt to our needs. 
 
 Feel free to check out other facade semantic segmentation datasets, like the one devoted to cultural heritage of [Matrone et al.](https://doi.org/10.5194/isprs-archives-XLIII-B2-2020-1419-2020) and the inspiring [ArCH dataset](http://archdataset.polito.it/)! Go ahead, check it out, and test your algorithms there too!
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOloOcki%2Fzaha&count_bg=%233A6DFF&title_bg=%23555555&icon=buddy.svg&icon_color=%2334BB41&title=hit+count&edge_flat=false)](https://hits.seeyoufarm.com)
