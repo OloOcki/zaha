@@ -81,7 +81,7 @@ LoFG stands for Level of Facade Generalization. See more in the ZAHA paper intro
 
 Please find the official publication introducing "ZAHA" at the WACV '25 here: 
 
-The paper [[WACV25 - pending](https://openaccess.thecvf.com/content/WACV2025/html/Wysocki_ZAHA_Introducing_the_Level_of_Facade_Generalization_and_the_Large-Scale_WACV_2025_paper.html)] [[arxiv preprint](https://arxiv.org/abs/2411.04865)]
+The paper [[WACV25](https://openaccess.thecvf.com/content/WACV2025/html/Wysocki_ZAHA_Introducing_the_Level_of_Facade_Generalization_and_the_Large-Scale_WACV_2025_paper.html)] [[arxiv preprint](https://arxiv.org/abs/2411.04865)]
 
 and consider citing it:
 ```plain
