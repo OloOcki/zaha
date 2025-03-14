@@ -2,7 +2,7 @@
 
 **To date the largest benchmark for facade semantic segmentation of point clouds** 
 
-[[Download]](https://tumde-my.sharepoint.com/:f:/g/personal/olaf_wysocki_tum_de/EjEtcRdYt0NOvilNerUesF0Bb-3uADnmzcI3LqTYS729Vg?e=Tacqh3) [[Benchmark]](https://tum2t.win/benchmarks/pc-fac) [[WACV25 Paper(pre-print)]](https://arxiv.org/abs/2411.04865) [[More]](https://tum2t.win/datasets/pc-mls)
+[[Download]](https://tumde-my.sharepoint.com/:f:/g/personal/olaf_wysocki_tum_de/EjEtcRdYt0NOvilNerUesF0Bb-3uADnmzcI3LqTYS729Vg?e=Tacqh3) [[Benchmark]](https://tum2t.win/benchmarks/pc-fac) [[WACV25 Paper]](https://openaccess.thecvf.com/content/WACV2025/html/Wysocki_ZAHA_Introducing_the_Level_of_Facade_Generalization_and_the_Large-Scale_WACV_2025_paper.html) [[More]](https://tum2t.win/datasets/pc-mls) 
 
 Password: 
 ```bash copy
@@ -81,15 +81,18 @@ LoFG stands for Level of Facade Generalization. See more in the ZAHA paper intro
 
 Please find the official publication introducing "ZAHA" at the WACV '25 here: 
 
-The paper [[WACV25 - pending](pending)] [[arxiv preprint](https://arxiv.org/abs/2411.04865)]
+The paper [[WACV25 - pending](https://openaccess.thecvf.com/content/WACV2025/html/Wysocki_ZAHA_Introducing_the_Level_of_Facade_Generalization_and_the_Large-Scale_WACV_2025_paper.html)] [[arxiv preprint](https://arxiv.org/abs/2411.04865)]
 
 and consider citing it:
 ```plain
-@article{wysockietalZAHA,
-	author = {Wysocki, O. and Tan, Y. and Froech, T. and Xia, Y. and Wysocki, M. and Hoegner, L. and Cremers, D. and Holst Ch.},
-	title = {ZAHA: Introducing the Level of Facade Generalization and the Large-Scale Point Cloud Facade Semantic Segmentation Benchmark Dataset},
-	booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
-	year = {2025},
+@InProceedings{Wysocki_2025_WACV,
+    author    = {Wysocki, Olaf and Tan, Yue and Froech, Thomas and Xia, Yan and Wysocki, Magdalena and Hoegner, Ludwig and Cremers, Daniel and Holst, Christoph},
+    title     = {ZAHA: Introducing the Level of Facade Generalization and the Large-Scale Point Cloud Facade Semantic Segmentation Benchmark Dataset},
+    booktitle = {Proceedings of the Winter Conference on Applications of Computer Vision (WACV)},
+    month     = {February},
+    year      = {2025},
+    pages     = {7637-7647}
+}
 ```
 ```
 @misc{wysocki2024zahaintroducinglevelfacade,
