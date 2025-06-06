@@ -2,7 +2,7 @@
 
 **To date the largest benchmark for facade semantic segmentation of point clouds** 
 
-[[Download]](https://tumde-my.sharepoint.com/:f:/g/personal/olaf_wysocki_tum_de/EjEtcRdYt0NOvilNerUesF0BvktYQlG9wKZF4O8z-D2geA?e=HQxr7O) [[Benchmark]](https://tum2t.win/benchmarks/pc-fac) [[WACV25 Paper]](https://openaccess.thecvf.com/content/WACV2025/html/Wysocki_ZAHA_Introducing_the_Level_of_Facade_Generalization_and_the_Large-Scale_WACV_2025_paper.html) [[More]](https://tum2t.win/datasets/pc-mls) 
+[[Download]](https://syncandshare.lrz.de/getlink/fi7J6RXToWkf8xdrAzLCwe/ZAHA) [[Benchmark]](https://tum2t.win/benchmarks/pc-fac) [[WACV25 Paper]](https://openaccess.thecvf.com/content/WACV2025/html/Wysocki_ZAHA_Introducing_the_Level_of_Facade_Generalization_and_the_Large-Scale_WACV_2025_paper.html) [[More]](https://tum2t.win/datasets/pc-mls) 
 
 Password: 
 ```bash copy
