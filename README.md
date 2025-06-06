@@ -4,10 +4,7 @@
 
 [[Download]](https://syncandshare.lrz.de/getlink/fi7J6RXToWkf8xdrAzLCwe/ZAHA) [[Benchmark]](https://tum2t.win/benchmarks/pc-fac) [[WACV25 Paper]](https://openaccess.thecvf.com/content/WACV2025/html/Wysocki_ZAHA_Introducing_the_Level_of_Facade_Generalization_and_the_Large-Scale_WACV_2025_paper.html) [[More]](https://tum2t.win/datasets/pc-mls) 
 
-Password: 
-```bash copy
-zaha
-```
+
 <p align="center">
     <img src="https://github.com/OloOcki/zaha/blob/main/img/overview_figure_wacv_legend_transparent.png" width="75%" title="overview"/>
 </p>
